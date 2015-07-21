@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ОсновныеСредства</string>
+    <string name="title_import">Импорт</string>
+    <string name="about">О программе</string>
+	<string name="author">Разработчик Петр Крамар\npeter.v.kramar@gmail.com\n2015</string>
+    <string name="path_to_file">Путь к файлу</string>
+    <string name="scan">Сканировать</string>
+    <string name="find_fixed_asset">Найти ОС</string>
+    <string name="inventory_number">Инв. номер</string>
+    <string name="open_file">Открыть файл</string>
+    
+    	
+</resources>

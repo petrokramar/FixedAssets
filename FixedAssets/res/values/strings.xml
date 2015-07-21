@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FixedAssets</string>
+    <string name="title_import">Import</string>
+    <string name="about">About</string>
+	<string name="author">Developer Peter Kramar\npeter.v.kramar@gmail.com\n2015</string>
+    <string name="path_to_file">Path to file</string>
+    <string name="scan">Scan</string>
+    <string name="find_fixed_asset">Find FA</string>
+    <string name="inventory_number">Inv. number</string>
+    <string name="open_file">Open file</string>
+    	
+</resources>
